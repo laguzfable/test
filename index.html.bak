@@ -26,6 +26,10 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
       <div class="container">
         <h1 class="text-uppercase text-white font-weight-bold" style="height: 117px;"></h1>
+        <h1 class="text-uppercase text-white font-weight-bold" style="height: 117px;"><img
+            src="https://raw.githubusercontent.com/laguzfable/test/master/assets/img/LibraryLogo.png"
+            alt="" style="width: 271px; height: 153px; top: 68px; left: 307px;"
+            id="logo"></h1>
         <a class="navbar-brand js-scroll-trigger" href="#page-top">Start
           Bootstrap</a> <button class="navbar-toggler navbar-toggler-right" type="button"
           data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
@@ -33,13 +37,10 @@
             style="width: 33px;"></span></button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto my-2 my-lg-0">
-            <li class="nav-item">
-              <h1 class="text-uppercase text-white font-weight-bold" style="height: 117px;"><img
-                  src="https://raw.githubusercontent.com/laguzfable/test/master/assets/img/LibraryLogo.png"
-                  alt="" style="width: 271px; height: 153px; top: 68px; left: 307px;"
-                  id="logo"></h1>
-              <a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Services</a></li>
+            <li class="nav-item"> <br>
+            </li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a><a
+                class="nav-link js-scroll-trigger" href="#services">Services</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
           </ul>
@@ -59,7 +60,7 @@
             <p class="text-white-75 font-weight-light mb-5" role="doc-epigraph"></p>
             <p class="text-white-75 font-weight-light mb-5" role="doc-epigraph">Start
               Bootstr<img src="file:///C:/Users/Laguz/Documents/GitHub/test/.git/assets/img/combo5_by.png"
-                alt="" id="ch" style="width: 525px; height: 296px;">ap can help
+                alt="" id="ch" style="width: 329px; height: 185px;">ap can help
               you build better websites using the Bootstrap framework! Just
               download a theme and start customizing, no strings attached<a class="btn btn-primary btn-xl js-scroll-trigger"
                 href="#about">ind Out </a><a class="btn btn-primary btn-xl js-scroll-trigger"
