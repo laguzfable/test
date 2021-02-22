@@ -9007,5 +9007,6 @@ transition: opacity 0.25s ease 0s;
 
 #huff {
   float: none;
+  position: absolute;
 }
 

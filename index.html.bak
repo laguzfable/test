@@ -50,9 +50,8 @@
           <div class="col-lg-10 align-self-end">
             <h1 class="text-uppercase text-white font-weight-bold"></h1>
             <h1 class="text-uppercase text-white font-weight-bold"></h1>
-            <h1 class="text-uppercase text-white font-weight-bold"><img src="https://raw.githubusercontent.com/laguzfable/test/master/assets/img/huffybig.png"
-                alt="" style="width: 288px; height: 422px; top: -106px; left: 175px;"
-                id="huffy"></h1>
+            <img src="file:///C:/Users/Laguz/Documents/GitHub/test/.git/assets/img/combo5_by.png"
+              alt="" style="width: 952px; height: 536px;" id="huff">
             <hr class="divider my-4"> </div>
           <div class="col-lg-8 align-self-baseline">
             <p class="text-white-75 font-weight-light mb-5" role="doc-epigraph">Start
