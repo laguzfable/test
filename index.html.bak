@@ -48,16 +48,14 @@
       <div class="container h-100">
         <div class="row h-100 align-items-center justify-content-center text-center">
           <div class="col-lg-10 align-self-end"><br>
-            <h1 class="text-uppercase text-white font-weight-bold"><img
-
-                src=".../assets/img/huffybig.png"
+            <h1 class="text-uppercase text-white font-weight-bold"><img src="/assets/img/huffybig.png"
 
                 alt="" style="width: 326px; height: 476px; top: -111px; left: 489px;"
 
                 id="huffy"></h1>
-            <h1 class="text-uppercase text-white font-weight-bold"><img src=".../assets/img/LibraryLogo.png"
+            <h1 class="text-uppercase text-white font-weight-bold"><img
 
-                alt="" style="width: 322px; height: 181px;"></h1>
+                src="/assets/img/LibraryLogo.png" alt="" style="width: 322px; height: 181px;"></h1>
             <hr class="divider my-4"> </div>
           <div class="col-lg-8 align-self-baseline">
             <p class="text-white-75 font-weight-light mb-5">Start Bootstrap can
